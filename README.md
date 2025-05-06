@@ -1,5 +1,13 @@
 # minicons
 a wii remake made in the [Penguinmod Editor](https://studio.penguinmod.com/editor.html)
 
+![](/img/favicon.png)
+
 Features:
-- A shop with games/channels originally made for **Mini** and some that aren't.
+- **MiniStore**; a shop with games/channels originally made for **Mini** and some that aren't.
+- A homepage with lots of different channels to choose from.
+
+To Add:
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
